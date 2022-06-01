@@ -1,0 +1,5 @@
+id,instruction,time_or_not,time,id_support
+1,Put egg(s) into a pot and cover them with cold water (about 1 inch above the eggs),false,null,null
+2,Place the pot on HIGH heat and set timer (runny: 4min; soft: 6min; medium: 8min; hard: 12min),true,3000,null
+3,Prepare large bowl with cold water and ice (keep water cold for hot egg),false,null,2
+
