@@ -22,5 +22,6 @@ from .views import InstructionStep
 
 urlpatterns = [
     path('menu/', DishesList.as_view(), name='dishes-list'),
+    path('steps/', InstructionStep.as_view(), name='dishes-list'),
     path('instruction/<str:dish>', InstructionStep.as_view(), name='instruction-step')
 ]

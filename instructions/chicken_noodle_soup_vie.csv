@@ -1,19 +1,19 @@
 id,instruction,time_or_not,time,id_support
-1,Chậm thịt gà bằng giấy cho ráo nước,false,null,none
-2,Rắc một ít tiêu và muối lên thịt gà,false,null,none
-3,Trán nồi với 1 ít dầu ăn (hoặc bơ) rồi đặt lên lửa TRUNG BÌNH hoặc CAO để làm nóng dầu,false,null,none
-4,Thêm (hành tây) (cà-rốt) (cần tây) vào nồi và xào sơ cho mềm (khoảng 3-4 phút),true,3,none 
-5,Đổ (nước dùng gà) và thêm (lá nguyệt quế) vào nồi sau đó nêm nếm với (tiêu) và (muối),false,null,none
-6,Đổ thịt gà vào nồi tăng lửa CAO đến khi sôi,false,null,none
-7,Giảm lửa đến mức TRUNG BÌNH và đậy nồi để hầm cho tới khi thịt gà chín (30-40 phút),true,3,none
-8,Vớt gà ra thớt để nguội bớt,false,null,none
-9,Cắt gà thành miếng vừa ăn và tách bỏ xương,false,null,none
-10,Trộn gà và mì vào nồi nấu tới khi gà mềm (6-7min),true,6,none
-11,Tắt lửa; thêm (rau ngò) (thì là) (nước chanh); nêm nếm với (tiêu) và (muối),false,null,none
-12,Dùng ngay khi nóng,false,null,none
+1,Chậm thịt gà bằng giấy cho ráo nước,False,null,none
+2,Rắc một ít tiêu và muối lên thịt gà,False,null,none
+3,Trán nồi với 1 ít dầu ăn (hoặc bơ) rồi đặt lên lửa TRUNG BÌNH hoặc CAO để làm nóng dầu,False,null,none
+4,Thêm (hành tây) (cà-rốt) (cần tây) vào nồi và xào sơ cho mềm (khoảng 3-4 phút),True,3,none 
+5,Đổ (nước dùng gà) và thêm (lá nguyệt quế) vào nồi sau đó nêm nếm với (tiêu) và (muối),False,null,none
+6,Đổ thịt gà vào nồi tăng lửa CAO đến khi sôi,False,null,none
+7,Giảm lửa đến mức TRUNG BÌNH và đậy nồi để hầm cho tới khi thịt gà chín (30-40 phút),True,3,none
+8,Vớt gà ra thớt để nguội bớt,False,null,none
+9,Cắt gà thành miếng vừa ăn và tách bỏ xương,False,null,none
+10,Trộn gà và mì vào nồi nấu tới khi gà mềm (6-7min),True,6,none
+11,Tắt lửa; thêm (rau ngò) (thì là) (nước chanh); nêm nếm với (tiêu) và (muối),False,null,none
+12,Dùng ngay khi nóng,False,null,none
 
-13,Chuẩn bị (hành tây) (cà-rốt) (cần tây) cho bước tiếp theo,false,null,3
-14,Chuẩn bị (nước dùng gà) và (lá nguyệt quế) cho bước tiếp theo,false,null,4
-15,Chuẩn bị (thịt gà) cho bước tiếp theo,false,null,5
-16,Chuẩn bị thớt và dao (để cắt nhỏ thịt gà),false,null,7
-17,Chuẩn bị thớt và dao (để cắt nhỏ thịt gà),false,null,8
+13,Chuẩn bị (hành tây) (cà-rốt) (cần tây) cho bước tiếp theo,False,null,3
+14,Chuẩn bị (nước dùng gà) và (lá nguyệt quế) cho bước tiếp theo,False,null,4
+15,Chuẩn bị (thịt gà) cho bước tiếp theo,False,null,5
+16,Chuẩn bị thớt và dao (để cắt nhỏ thịt gà),False,null,7
+17,Chuẩn bị thớt và dao (để cắt nhỏ thịt gà),False,null,8

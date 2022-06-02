@@ -29,4 +29,11 @@ class CulturalCategory(models.Model):
     name = models.CharField(max_length=50)
 
 
+class Recipe(models.Model):
+    instruction = models.CharField(max_length=200)
+    time_or_not = models.BooleanField()
+    time = models.IntegerField(default=0)
+    id_support = models.IntegerField(default=0)
+
+
 

@@ -1,19 +1,19 @@
 id,instruction,time_or_not,time,id_support
-1,Pat chicken dry with paper towels,false,null,none
-2,Sprinkle little bit salt and pepper on chicken,false,null,none
-3,Wet the pot with oil and heat oil (or butter) on MEDIUM to HIGH heat,false,null,none
-4,Add (onion) (carrots) (celery) then stirring everything until tender (3-4min),true,3,none 
-5,Add chicken stock and bay leaves then season with salt and pepper to taste,false,null,none
-6,Add chicken meat and bring to boil,false,null,none
-7,Reduce heat to MEDIUM and cover the pot for simmer until chicken is cooked (30-40min),true,3,none
-8,Take chicken out and let it cool,false,null,none
-9,Dicing chicken into bite-size pieces and discard bones,false,null,none
-10,Mix chicken and pasta and cook until tender (6-7min),true,6,none
-11,Remove the pot from heat; Add (parsley) (dill) (lemon juice); Season with (salt) and (pepper) to taste,false,null,none
-12,Serve immediately,false,null,none
+1,Pat chicken dry with paper towels,False,0,0
+2,Sprinkle little bit salt and pepper on chicken,False,0,0
+3,Wet the pot with oil and heat oil (or butter) on MEDIUM to HIGH heat,False,0,0
+4,Add (onion) (carrots) (celery) then stirring everything until tender (3-4min),True,3,0 
+5,Add chicken stock and bay leaves then season with salt and pepper to taste,False,0,0
+6,Add chicken meat and bring to boil,False,0,0
+7,Reduce heat to MEDIUM and cover the pot for simmer until chicken is cooked (30-40min),True,3,0
+8,Take chicken out and let it cool,False,0,0
+9,Dicing chicken into bite-size pieces and discard bones,False,0,0
+10,Mix chicken and pasta and cook until tender (6-7min),True,6,0
+11,Remove the pot from heat; Add (parsley) (dill) (lemon juice); Season with (salt) and (pepper) to taste,False,0,0
+12,Serve immediately,False,0,0
 
-13,Get (onion) (carrots) (celery) ready for the next step,false,null,3
-14,Get (chicken stock) (bay leaves) ready for the next step,false,null,4
-15,Get (chicken) ready for the next step,false,null,5
-16,Prepare cutting board and knife (or something to dice the meat),false,null,7
-17,Prepare cutting board and knife (or something to dice the meat),false,null,8
+13,Get (onion) (carrots) (celery) ready for the next step,False,0,3
+14,Get (chicken stock) (bay leaves) ready for the next step,False,0,4
+15,Get (chicken) ready for the next step,False,0,5
+16,Prepare cutting board and knife (or something to dice the meat),False,0,7
+17,Prepare cutting board and knife (or something to dice the meat),False,0,8
