@@ -16,12 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-from .views import DishesList
-from .views import InstructionStep
+from .views import DishesList, RecipeProcess, RecipeProcessListAll
 
 
 urlpatterns = [
     path('menu/', DishesList.as_view(), name='dishes-list'),
-    path('steps/', InstructionStep.as_view(), name='dishes-list'),
-    path('instruction/<str:dish>', InstructionStep.as_view(), name='instruction-step')
+    path('instruction/', RecipeProcessListAll.as_view(), name='recipe-list-all'),
+    path('instruction/<int:rec_id>', RecipeProcess.as_view(), name='recipe-process'),
 ]
